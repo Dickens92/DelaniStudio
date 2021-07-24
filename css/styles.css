@@ -87,8 +87,8 @@ height: 488px;
     color: black;
 }
 figcaption{
-    margin-top: 20px;
-    
+    margin-top: 7px;
+    color: black;
 }
 .row{
     text-align: center;
@@ -99,7 +99,19 @@ figcaption{
 .row p{
     color: black;
 }
+#portfolio{
+    margin-left: 10%;
+    margin-right: 8%;
+    flex-wrap: wrap;
+    display: flex;
 
+}
+.portfolio h1{
+    text-align: center;
+    font-family: serif;
+    padding-top: 1px;
+    color: black;
+}
 
      
     
