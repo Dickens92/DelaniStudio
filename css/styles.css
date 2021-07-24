@@ -151,6 +151,6 @@ button{
     margin-bottom: 33px;
     padding-bottom: 23px;
 }    
-.row input{
-    color: white;
+.form-control::-webkit-input-placeholder{
+    color: whitesmoke;
 }
