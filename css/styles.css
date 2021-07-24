@@ -120,6 +120,37 @@ figcaption{
     color: white;
 
 }
-     
+.contacts h1{
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 35px;
+    padding-bottom: 15px;
+    margin-top: 25px;
+}
+.contacts-overlay{
+    background-color: rgba(red, green, blue, alpha);
+}
+.form-control{
+    color: white;
+    background-color: #66000000;
     
+    
+    
+}
+.social{
+    text-align: center;
+    
+}  
+footer p{
+    text-align: center;
+    margin-top: 11px;
+    font: 1em sans-serif;
+    color: black;
+}
+button{
+    margin-left: 33%;
+    margin-bottom: 33px;
+    padding-bottom: 23px;
+}    
  
+
