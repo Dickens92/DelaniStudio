@@ -1,5 +1,19 @@
-p {
-    align-content: center;
-    align-self: center;
-    align-items: center;
-}
+html{
+    scroll-behavior: smooth;
+  }
+  .home{
+    background-image: url('../images/assets/backgrounds/h_img.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+  }
+  .home h1{
+      margin: 5px;
+      padding: 3px;
+
+  }
