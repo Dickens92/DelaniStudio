@@ -112,7 +112,14 @@ figcaption{
     padding-top: 1px;
     color: black;
 }
+.contacts{
+    background-image: url('../images/assets/backgrounds/c_image.jpg');
+    font-family: sans-serif;
+    background-position: cover;
+    background-repeat: no-repeat;
+    color: white;
 
+}
      
     
  
