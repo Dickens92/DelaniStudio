@@ -85,13 +85,13 @@ $(document).ready(function(){
     event.preventDefault();
     let name = $("input#name").val();
     let email = $("input#email").val();
-    let message = $("textarea#message").val();
+    let message = $("textarea#comment").val();
 
     if ($("input#name").val() && $("input#email").val()){
-        alert ("Hey " + name + ", Thanks for reaching out, we'll get back to you shortly...cheers");
+        alert ("Hello " + name + ", We appreciate you for reaching out");
     }
     else {
-        alert("Please provide your correct name and email!");
+        alert("Kindly enter valid name and emailPlease provide your correct name and email!");
     }
 
 });
