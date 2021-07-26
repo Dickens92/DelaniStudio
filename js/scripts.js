@@ -90,10 +90,10 @@ $(document).ready(function(){
     let message = $("textarea#comment").val();
 
     if ($("input#name").val() && $("input#email").val()) {
-      alert("Hello " + name + ", We appreciate you for reaching out");
+      alert("Hello " + name + ", Your message to us is well received. We appreciate you for reaching out to Delani Studios");
     }
     else {
-      alert("Kindly enter valid name and email address!");
+      alert("Kindly enter your name and valid email address!");
     }
 
   });
