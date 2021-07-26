@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Comfortaa|Poiret+One|Raleway|Ubuntu+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
 html{
     scroll-behavior: smooth;
   }
@@ -100,7 +100,7 @@ height: 488px;
     display: none;
 }
 
-}
+
 figcaption{
     margin-top: 7px;
     color: black;
