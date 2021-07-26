@@ -3,7 +3,7 @@ html{
     scroll-behavior: smooth;
   }
   .overlay{
-      padding-top: 250px;
+      padding-top: 600px;
       
   }
   .home{
@@ -13,7 +13,7 @@ html{
     background-size: cover;
     text-align: center;
     color: white;
-    font-family: serif;
+    font-family: sans-serif
     
     
          
@@ -21,10 +21,13 @@ html{
   .home h1{
       margin: 5px;
       padding: 3px;
+      font-family: sans-serif;
+      
 
   }
   .home p{
       padding: 2px;
+      font-family: sans-serif;
   }
   .mouse-click{
       margin-top: 350px;
@@ -51,15 +54,17 @@ html{
 
   .about {
       text-align: center;
-      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-family: sans-serif;
       padding-bottom: 35px;
   }
   
   .about h2{
       color: black;
+      font-family: sans-serif;
   }
   .about p{
       color: black;
+      font-family: sans-serif;
   }
   .delani-services {
 text-align: center;
@@ -85,6 +90,7 @@ height: 488px;
     padding-top: 10px;
     text-align: center;
     color: black;
+    font-family: sans-serif;
 }
 figcaption{
     margin-top: 7px;
@@ -98,6 +104,7 @@ figcaption{
 }
 .row p{
     color: black;
+    font-family: sans-serif;
 }
 #portfolio{
     margin-left: 10%;
@@ -178,5 +185,3 @@ button{
     height: 100%;
     
   }
-
-  
