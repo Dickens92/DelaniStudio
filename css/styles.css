@@ -177,13 +177,13 @@ button{
     color: whitesmoke;
 }
 
-#overlay1,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
+#cover1,#cover2,#cover3,#cover4,#cover5,#cover6,#cover7,#cover8{
     display: none;
     color: black;
     background-color:rgba(255, 255, 255, 0.456);
     position:absolute;
-    top: 19px;
-    left: 33px;
+    top: 21px;
+    left: 36px;
     font-weight: bold;
     text-align: center;
     font-size: 30px;
